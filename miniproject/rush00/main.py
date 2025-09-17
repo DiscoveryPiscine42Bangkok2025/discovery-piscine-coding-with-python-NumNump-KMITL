@@ -10,7 +10,7 @@ if __name__ == "__main__":
             #แสดงboard
             print_board(board)
             
-            #เช็คว่า King โดนเซ็ทหย่อมั้ย
+            #เช็คว่า King โดน Checkmate มั้ย
             checkmate(board)
 
             print()
